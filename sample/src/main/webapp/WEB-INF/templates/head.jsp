@@ -1,5 +1,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <head>
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="MagicBox SAML Sample application"/>
     <meta name="keywords" content="saml,spring,spring-security" />

@@ -396,7 +396,7 @@ img.alignright, img.right {margin: 0 0 1em 1.5em;}
 
 .main#main-two-columns {background: url('../images/main-two-columns.gif') repeat-y right top;}
 .main#main-two-columns-left {background: url('../images/main-two-columns-left.gif') repeat-y left top;}
-.main#main-two-columns #main-content, .main#main-two-columns-left #main-content {width: 620px;}
+.main#main-two-columns #main-content, .main#main-two-columns-left #main-content {width: 667px;}
 
 /* Sidebar */
 #sidebar {width: 255px;}
