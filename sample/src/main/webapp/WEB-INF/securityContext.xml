@@ -202,8 +202,8 @@
 			           <property name="sslSecurityProfile" value="pkix"/>
 			           <property name="sslHostnameVerification" value="default"/>
 			           <property name="signMetadata" value="false"/>
-			           <property name="signingKey" value="null"/>
-			           <property name="encryptionKey" value="null"/>
+			           <property name="signingKey" value="apollo"/>
+			           <property name="encryptionKey" value="apollo"/>
 			           <property name="requireArtifactResolveSigned" value="true"/>
 			           <property name="requireLogoutRequestSigned" value="true"/>
 			           <property name="requireLogoutResponseSigned" value="false"/>
