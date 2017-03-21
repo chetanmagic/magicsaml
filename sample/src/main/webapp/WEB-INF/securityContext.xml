@@ -208,8 +208,8 @@
 			           <property name="requireLogoutRequestSigned" value="true"/>
 			           <property name="requireLogoutResponseSigned" value="false"/>
 			           <property name="idpDiscoveryEnabled" value="true"/>
-			           <property name="idpDiscoveryURL" value="https://54.159.92.83:8443/spring-security-saml2-sample/saml/discovery"/>
-			           <property name="idpDiscoveryResponseURL" value="https://54.159.92.83:8443/spring-security-saml2-sample/saml/login?disco=true"/>
+			           <property name="idpDiscoveryURL" value="https://54.204.7.101:8443/spring-security-saml2-sample/saml/discovery"/>
+			           <property name="idpDiscoveryResponseURL" value="https://54.204.7.101:8443/spring-security-saml2-sample/saml/login?disco=true"/>
 			        </bean>
 			    </constructor-arg>
 			</bean>
